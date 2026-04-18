@@ -48,7 +48,7 @@ portfolio/
 
 To run locally:
 
-```bash
+bash
 git clone https://github.com/muskan-bansal-03/portfolio-website.git
 cd portfolio-website
 Then open index.html in your browser.
